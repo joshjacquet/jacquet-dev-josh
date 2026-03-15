@@ -25,6 +25,7 @@ theme = "hugo-profile"
       name = "View Experience"
       url = "/experience/"
       download = false
+      newPage = false
 
   [params.hero.socialLinks]
     fontAwesomeIcons = [
@@ -84,8 +85,3 @@ theme = "hugo-profile"
   url = "/experience/"
   weight = 1
 
-[[menus.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/#contact"
-  weight = 2
