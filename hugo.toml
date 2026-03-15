@@ -20,8 +20,8 @@ theme = "hugo-profile"
   [params.hero]
     enable = true
     title = "Josh Jacquet"
-    subtitle = "Racine, WI | Relocating to Atlanta, GA"
-    content = "AI & Agentic Solutions Architect | Enterprise AI Strategy & Governance | Data Leadership"
+    subtitle = "Enterprise AI/ML Leadership, Governance and Strategy"
+    content = "Relocating to Atlanta, GA"
     image = "/images/profile.jpg"
 
     [params.hero.button]
