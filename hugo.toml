@@ -11,7 +11,7 @@ theme = "hugo-profile"
   title = "Josh Jacquet"
   description = "AI & Agentic Solutions Architect | Enterprise AI Strategy & Governance"
   animate = true
-  favicon = "fav.png"
+  favicon = "/fav.png"
   # Loads our date-hiding CSS
   customCSS = ["css/custom.css"] 
 
