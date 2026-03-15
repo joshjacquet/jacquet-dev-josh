@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Josh Jacquet"
 theme = "hugo-profile"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
+
 [params]
   title = "Josh Jacquet"
   description = "AI & Agentic Solutions Architect | Enterprise AI Strategy & Governance"
