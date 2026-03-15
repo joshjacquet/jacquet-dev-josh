@@ -1,0 +1,91 @@
+baseURL = "https://josh.jacquet.dev/"
+languageCode = "en-us"
+title = "Josh Jacquet"
+theme = "hugo-profile"
+
+[params]
+  title = "Josh Jacquet"
+  description = "AI & Agentic Solutions Architect | Enterprise AI Strategy & Governance"
+  animate = true
+  # Loads our date-hiding CSS
+  customCSS = ["css/custom.css"] 
+
+  [params.theme]
+    defaultTheme = "auto"
+
+  [params.hero]
+    enable = true
+    title = "Josh Jacquet"
+    subtitle = "Racine, WI | Relocating to Atlanta, GA"
+    content = "AI & Agentic Solutions Architect | Enterprise AI Strategy & Governance | Data Leadership"
+    image = "/images/profile.jpg"
+
+    [params.hero.button]
+      enable = true
+      name = "View Experience"
+      url = "/experience/"
+      download = false
+
+  [params.hero.socialLinks]
+    fontAwesomeIcons = [
+      {icon = "fab fa-github", url = "https://github.com/joshjacquet"},
+      {icon = "fab fa-linkedin", url = "https://www.linkedin.com/in/josh-jacquet/"},
+      {icon = "fas fa-envelope", url = "mailto:josh@jacquet.dev"}
+    ]
+
+  [params.about]
+    enable = true
+    title = "About Me"
+    image = "/images/profile.jpg"
+    content = "Technical leader with **12 years** of experience driving enterprise-level analytics and AI transformation. I partner with executives to deliver practical value through AI solutions—from foundational automations to fully agentic workflows."
+
+    [params.about.skills]
+      enable = true
+      title = "Core Expertise"
+      # These appear as theme-default badges on the Home Page
+      items = ["AI Strategy", "LangGraph", "RAG Architecture", "Python Engineering", "Azure OpenAI", "Vertex AI", "Governance & DevOps", "Microsoft Fabric"]
+
+  # Sidebar Profile Links (LinkedIn & Email Only)
+  [[params.github]]
+    name = "github"
+    icon = "fab fa-github"
+    url = "https://github.com/joshjacquet"
+
+  [[params.social]]
+    name = "linkedin"
+    icon = "fab fa-linkedin"
+    url = "https://www.linkedin.com/in/josh-jacquet/"
+
+  [[params.social]]
+    name = "email"
+    icon = "fas fa-envelope"
+    url = "mailto:josh@jacquet.dev"
+
+  [params.experience]
+    enable = false 
+  [params.projects]
+    enable = false
+
+  [params.contact]
+    enable = true
+    title = "Contact"
+    content = "Interested in AI strategy or agentic workflows? Let's connect."
+    email = "josh@jacquet.dev"
+    btnName = "Email me"
+
+[params.footer.socialNetworks]
+    github = "https://github.com/joshjacquet"
+    linkedin = "https://www.linkedin.com/in/josh-jacquet/"
+    email = "mailto:josh@jacquet.dev"
+
+[[menus.main]]
+  identifier = "experience"
+  name = "Experience"
+  url = "/experience/"
+  weight = 1
+
+[[menus.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/#contact"
+  weight = 2

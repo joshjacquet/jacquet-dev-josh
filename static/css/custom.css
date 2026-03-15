@@ -1,0 +1,29 @@
+/* Hides the date icon and text on single pages */
+.post-date {
+    display: none !important;
+}
+
+/* Optional: Removes the "|" separator if it's still floating there */
+.post-meta span:first-child {
+    display: none !important;
+}
+
+/* Hides the 'Jan 1, 1' date and its calendar icon */
+.post-meta span:first-child, 
+.fa-calendar-alt {
+    display: none !important;
+}
+
+/* Fixes the spacing so the '1 min read' stays centered */
+.post-meta {
+    display: flex;
+    justify-content: center;
+}
+
+/* Styles for your new Skills Grid */
+.skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
