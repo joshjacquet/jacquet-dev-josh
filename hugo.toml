@@ -43,13 +43,13 @@ theme = "hugo-profile"
     enable = true
     title = "About Me"
     image = "/images/profile.jpg"
-    content = "Technical leader with **12 years** of experience driving enterprise-level analytics and AI transformation. I partner with executives to deliver practical value through AI solutions—from foundational automations to fully agentic workflows."
+    content = "Technical leader with **12 years** of experience driving enterprise-level analytics and AI transformation.\n\nI partner with executives to deliver practical value through AI solutions, from foundational automations to fully agentic workflows."
 
     [params.about.skills]
       enable = true
       title = "Core Expertise"
       # These appear as theme-default badges on the Home Page
-      items = ["AI Strategy", "Agentic Orchestration", "LangChain", "LangGraph", "RAG Architecture", "NLP", "Python Engineering", "PyTorch", "Azure OpenAI", "Vertex AI", "SQL Server", "Databricks", "Azure DevOps", "Governance & DevOps", "Microsoft Fabric"]
+      items = ["AI Strategy", "Data Science", "Team Leadership", "Data Governance", "Agentic Orchestration", "LangChain & LangGraph", "RAG Architecture", "NLP", "Python", "PyTorch", "Azure OpenAI", "Vertex AI", "SQL Server", "Databricks", "Microsoft Fabric", "Azure DevOps"]
 
   # Sidebar Profile Links (LinkedIn & Email Only)
   [[params.github]]
