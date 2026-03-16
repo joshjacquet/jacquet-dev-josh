@@ -30,8 +30,6 @@ showReadTime: true
 ## Competitions
 
 #### DMA 2016 Analytics Challenge
-**Sep – Oct 2016**
-
 Placed **4th out of 50 teams**. Developed ensemble models for loan profitability prediction using 700,000+ records.
 
 ---
