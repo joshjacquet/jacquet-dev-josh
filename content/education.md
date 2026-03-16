@@ -12,13 +12,13 @@ showReadTime: true
 
 ## Degrees
 
-### M.S. in Applied Economics / Marketing Research
-**Marquette University**
+
+### **<img src="/images/logos/marquette.svg" alt="Marquette" class="edu-logo"> Marquette University**
+#### M.S. in Applied Economics / Marketing Research
 
 Graduate program combining data science, econometrics, and applied marketing research methodology.
 
-### B.S. in Economics / Marketing
-**Marquette University**
+#### B.S. in Economics / Marketing
 
 Specializations in econometrics, mathematical economics, and marketing.
 
@@ -26,8 +26,8 @@ Specializations in econometrics, mathematical economics, and marketing.
 
 ## Executive Education
 
-### AI Strategies for Business Transformation
-**Kellogg Executive Education — Northwestern University**
+### **<img src="/images/logos/kellogg2.svg" alt="Kellogg" class="edu-logo edu-logo-invert"> Northwestern University**
+#### <a href=https://execedcertificate.kellogg.northwestern.edu/01d0b34c-f7df-41e1-af29-e15a9bf8017a#acc.Z0PA8lrv target=_blank>AI Strategies for Business Transformation</a>
 
 Strategic frameworks for leading AI transformation at the enterprise level.
 
@@ -35,13 +35,11 @@ Strategic frameworks for leading AI transformation at the enterprise level.
 
 ## Professional Certifications
 
-### Fundamentals of Deep Learning
-**NVIDIA**
+#### <a href="https://learn.nvidia.com/certificates?id=7lBNzMsHRpm8KO7jMe49gA" target=_blank>Fundamentals of Deep Learning | <img src="/images/logos/nvidia.svg" alt="NVIDIA" class="edu-logo"> NVIDIA </a>
 
-### Azure Fundamentals
-**Microsoft**
+#### <a href="https://www.credly.com/badges/6a568748-8090-4a46-a20d-452e0e99d19e?source=linked_in_profile" target=_blank>Azure Fundamentals | <img src="/images/logos/microsoft.svg" alt="Microsoft" class="edu-logo"> </a>
 
-### Coursera Data Science Specializations
+#### Data Science Specialization | <img src="/images/logos/jhu.svg" alt="John's Hopkins University" class="edu-logo"> John's Hopkins University
 
 * Developing Data Products
 * Practical Machine Learning
@@ -53,8 +51,11 @@ Strategic frameworks for leading AI transformation at the enterprise level.
 * R Programming
 * The Data Scientist's Toolbox
 
+#### Data Science using Python | <img src="/images/logos/datacamp.svg" alt="DataCamp" class="edu-logo"> DataCamp
+
+
 ---
 
 ## Additional Certifications
 
-##### Querying with Transact-SQL | edX
+##### Querying with Transact-SQL | <img src="/images/logos/edx.svg" alt="edX" class="edu-logo edu-logo-invert">

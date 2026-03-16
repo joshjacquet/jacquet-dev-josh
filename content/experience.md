@@ -15,7 +15,7 @@ Strategic AI Architect and Technical Leader with 12 years of experience driving 
 
 ---
 
-## Uline
+## <img src="/images/logos/ULINE-Logo.png" alt="Uline" class="edu-logo" style="height: 80px; margin-bottom:-0.6em">
 **May 2014 – Present** *Decade-plus of leadership progression through Marketing Analytics, BI, and AI.*
 
 ### Lead AI & Agentic Solutions Architect

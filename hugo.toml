@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Josh Jacquet"
 theme = "hugo-profile"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "RSS"]
