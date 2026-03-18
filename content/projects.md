@@ -22,13 +22,13 @@ Uline's first enterprise AI agent — a fully orchestrated LLM-based system anal
 ---
 
 ## Enterprise RAG Architecture
-**Uline | 2024**
+**Uline | 2025**
 
 Production-scale Retrieval-Augmented Generation system serving **2.5M annual queries** against internal customer service procedure knowledge bases.
 
 * Reduced employee time-to-answer by **73%**
 * Decreased internal helpline escalations with instant, cited answers
-* Hybrid search architecture combining semantic and keyword retrieval
+* Hybrid search architecture using SQL Server 2025 vector and full text search, combining semantic and keyword retrieval
 
 ---
 
